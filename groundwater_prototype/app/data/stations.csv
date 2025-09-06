@@ -1,0 +1,4 @@
+station_id,name,lat,lon,zone
+1,Station A,28.7041,77.1025,Zone-1
+2,Station B,26.9124,75.7873,Zone-2
+3,Station C,19.076,72.8777,Zone-3
