@@ -1,25 +1,15 @@
-import requests
+
 import time
-from flask import Blueprint, jsonify
-import json
-
-bp = Blueprint("stations", __name__, url_prefix="/api/stations")
-
-# Load state-district mapping
-with open('app/data/state.json', 'r') as file:
-    states_districts = json.load(file)
-
-# India-WRIS API endpoint
-BASE_URL = "https://indiawris.gov.in/Dataset/Ground Water Level"
+from datetime import date
+import requests
+BASE_URL = "https://indiawris.gov.in/Dataset/Temperature"
 HEADERS = {
     "accept": "application/json",
     "Content-Type": "application/x-www-form-urlencoded"
 }
 PAGE_SIZE = 1000
-START_DATE = "2000-11-01"
-END_DATE = "2024-11-01"
-
-
+START_DATE="2000-11-01"
+END_DATE=date.today().strftime("%Y-%m-%d")
 def fetch_groundwater_data(state, district):
     """Fetch all groundwater level records for a given state & district from India-WRIS API"""
     page = 0
@@ -29,7 +19,7 @@ def fetch_groundwater_data(state, district):
         params = {
             "stateName": state,
             "districtName": district,
-            "agencyName": "CGWB",   # Central Ground Water Board
+            "agencyName": state,   
             "startdate": START_DATE,
             "enddate": END_DATE,
             "download": "true",
@@ -70,21 +60,3 @@ def fetch_groundwater_data(state, district):
 
     print(f"{district}, {state} → Total collected: {len(all_data)}")
     return all_data
-
-
-@bp.route("/", methods=["GET"])
-def get_all_stations():
-    """Fetch groundwater data for all states & districts in states_districts"""
-    results = {}
-
-    for state, districts in states_districts.items():
-        state_data = []
-        for district in districts:
-            print(f"Fetching data for {district}, {state}...")
-            data = fetch_groundwater_data(state, district)
-            state_data.extend(data)
-
-        results[state] = state_data
-        print(f" {state}: {len(state_data)} records added")
-
-    return jsonify(results)
