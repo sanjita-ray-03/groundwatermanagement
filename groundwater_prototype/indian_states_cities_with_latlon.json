@@ -1,0 +1,3498 @@
+{
+  "Odisha": [
+    {
+      "name": "Angul",
+      "lat": 20.8484,
+      "lon": 85.097
+    },
+    {
+      "name": "Balangir",
+      "lat": 20.711,
+      "lon": 83.4903
+    },
+    {
+      "name": "Balasore",
+      "lat": 21.4942,
+      "lon": 86.931
+    },
+    {
+      "name": "Bargarh",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Bhadrak",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Boudh",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Cuttack",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Debagarh",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Dhenkanal",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Gajapati",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Ganjam",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Jagatsinghapur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Jajpur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Jharsuguda",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kalahandi",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kandhamal",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kendrapara",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kendujhar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Khordha",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Koraput",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Malkangiri",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Mayurbhanj",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Nabarangpur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Nayagarh",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Nuapada",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Puri",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Rayagada",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Sambalpur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Sonepur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Sundargarh",
+      "lat": null,
+      "lon": null
+    }
+  ],
+  "Andhra Pradesh": [
+    {
+      "name": "Anantapur",
+      "lat": 14.6819,
+      "lon": 77.6006
+    },
+    {
+      "name": "Chittoor",
+      "lat": 13.2172,
+      "lon": 79.1003
+    },
+    {
+      "name": "East Godavari",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Guntur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Krishna",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kurnool",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Prakasam",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Srikakulam",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Sri Potti Sriramulu Nellore",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Visakhapatnam",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Vizianagaram",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "West Godavari",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "YSR Kadapa",
+      "lat": null,
+      "lon": null
+    }
+  ],
+  "Arunachal Pradesh": [
+    {
+      "name": "Tawang",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "West Kameng",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "East Kameng",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Papum Pare",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kurung Kumey",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kra Daadi",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Lower Subansiri",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Upper Subansiri",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "West Siang",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "East Siang",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Siang",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Upper Siang",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Lower Siang",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Lower Dibang Valley",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Dibang Valley",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Anjaw",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Lohit",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Namsai",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Changlang",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Tirap",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Longding",
+      "lat": null,
+      "lon": null
+    }
+  ],
+  "Assam": [
+    {
+      "name": "Baksa",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Barpeta",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Biswanath",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Bongaigaon",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Cachar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Charaideo",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Chirang",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Darrang",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Dhemaji",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Dhubri",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Dibrugarh",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Goalpara",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Golaghat",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Hailakandi",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Hojai",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Jorhat",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kamrup",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kamrup Metropolitan",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Karbi Anglong",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Karimganj",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kokrajhar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Lakhimpur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Majuli",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Morigaon",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Nagaon",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Nalbari",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Sivasagar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Sonitpur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "South Salmara-Mankachar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Tinsukia",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Udalguri",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "West Karbi Anglong",
+      "lat": null,
+      "lon": null
+    }
+  ],
+  "Bihar": [
+    {
+      "name": "Araria",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Arwal",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Aurangabad",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Banka",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Begusarai",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Bhagalpur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Bhojpur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Buxar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Darbhanga",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "East Champaran",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Gaya",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Gopalganj",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Jamui",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Jehanabad",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kaimur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Katihar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Khagaria",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kishanganj",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Lakhisarai",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Madhepura",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Madhubani",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Munger",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Muzaffarpur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Nalanda",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Nawada",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Patna",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Purnia",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Rohtas",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Saharsa",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Samastipur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Saran",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Sheikhpura",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Sheohar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Sitamarhi",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Siwan",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Supaul",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Vaishali",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "West Champaran",
+      "lat": null,
+      "lon": null
+    }
+  ],
+  "Chhattisgarh": [
+    {
+      "name": "Balod",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Baloda Bazar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Balrampur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Bastar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Bemetara",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Bijapur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Bilaspur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Dantewada",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Dhamtari",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Durg",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Gariaband",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Janjgir-Champa",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Jashpur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kabirdham",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kanker",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kondagaon",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Korba",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Koriya",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Mahasamund",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Mungeli",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Narayanpur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Raigarh",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Raipur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Rajnandgaon",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Sukma",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Surajpur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Surguja",
+      "lat": null,
+      "lon": null
+    }
+  ],
+  "Goa": [
+    {
+      "name": "North Goa",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "South Goa",
+      "lat": null,
+      "lon": null
+    }
+  ],
+  "Gujarat": [
+    {
+      "name": "Ahmedabad",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Amreli",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Anand",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Aravalli",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Banaskantha",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Bharuch",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Bhavnagar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Botad",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Chhota Udaipur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Dahod",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Dang",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Devbhoomi Dwarka",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Gandhinagar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Gir Somnath",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Jamnagar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Junagadh",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kheda",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kutch",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Mahisagar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Mehsana",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Morbi",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Narmada",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Navsari",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Panchmahal",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Patan",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Porbandar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Rajkot",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Sabarkantha",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Surat",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Surendranagar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Tapi",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Vadodara",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Valsad",
+      "lat": null,
+      "lon": null
+    }
+  ],
+  "Haryana": [
+    {
+      "name": "Ambala",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Bhiwani",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Charkhi Dadri",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Faridabad",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Fatehabad",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Gurugram",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Hisar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Jhajjar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Jind",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kaithal",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Karnal",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kurukshetra",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Mahendragarh",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Nuh",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Palwal",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Panchkula",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Panipat",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Rewari",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Rohtak",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Sirsa",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Sonipat",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Yamunanagar",
+      "lat": null,
+      "lon": null
+    }
+  ],
+  "Himachal Pradesh": [
+    {
+      "name": "Bilaspur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Chamba",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Hamirpur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kangra",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kinnaur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kullu",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Lahaul and Spiti",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Mandi",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Shimla",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Sirmaur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Solan",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Una",
+      "lat": null,
+      "lon": null
+    }
+  ],
+  "Jharkhand": [
+    {
+      "name": "Bokaro",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Chatra",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Deoghar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Dhanbad",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Dumka",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "East Singhbhum",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Garhwa",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Giridih",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Godda",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Gumla",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Hazaribagh",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Jamtara",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Khunti",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Koderma",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Latehar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Lohardaga",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Pakur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Palamu",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Ramgarh",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Ranchi",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Sahibganj",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Seraikela-Kharsawan",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Simdega",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "West Singhbhum",
+      "lat": null,
+      "lon": null
+    }
+  ],
+  "Karnataka": [
+    {
+      "name": "Bagalkot",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Ballari",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Belagavi",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Bengaluru Rural",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Bengaluru Urban",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Bidar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Chamarajanagar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Chikkaballapur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Chikkamagaluru",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Chitradurga",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Dakshina Kannada",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Davanagere",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Dharwad",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Gadag",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Hassan",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Haveri",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kalaburagi",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kodagu",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kolar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Koppal",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Mandya",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Mysuru",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Raichur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Ramanagara",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Shivamogga",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Tumakuru",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Udupi",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Uttara Kannada",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Vijayapura",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Yadgir",
+      "lat": null,
+      "lon": null
+    }
+  ],
+  "Kerala": [
+    {
+      "name": "Alappuzha",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Ernakulam",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Idukki",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kannur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kasaragod",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kollam",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kottayam",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kozhikode",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Malappuram",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Palakkad",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Pathanamthitta",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Thiruvananthapuram",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Thrissur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Wayanad",
+      "lat": null,
+      "lon": null
+    }
+  ],
+  "Madhya Pradesh": [
+    {
+      "name": "Agar Malwa",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Alirajpur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Anuppur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Ashoknagar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Balaghat",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Barwani",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Betul",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Bhind",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Bhopal",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Burhanpur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Chhatarpur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Chhindwara",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Damoh",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Datia",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Dewas",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Dhar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Dindori",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Guna",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Gwalior",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Harda",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Hoshangabad",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Indore",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Jabalpur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Jhabua",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Katni",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Khandwa",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Khargone",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Mandla",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Mandsaur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Morena",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Narsinghpur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Neemuch",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Panna",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Raisen",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Rajgarh",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Ratlam",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Rewa",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Sagar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Satna",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Sehore",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Seoni",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Shahdol",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Shajapur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Sheopur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Shivpuri",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Sidhi",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Singrauli",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Tikamgarh",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Ujjain",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Umaria",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Vidisha",
+      "lat": null,
+      "lon": null
+    }
+  ],
+  "Maharashtra": [
+    {
+      "name": "Ahmednagar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Akola",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Amravati",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Aurangabad",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Beed",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Bhandara",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Buldhana",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Chandrapur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Dhule",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Gadchiroli",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Gondia",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Hingoli",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Jalgaon",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Jalna",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kolhapur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Latur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Mumbai City",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Mumbai Suburban",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Nagpur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Nanded",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Nandurbar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Nashik",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Osmanabad",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Palghar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Parbhani",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Pune",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Raigad",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Ratnagiri",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Sangli",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Satara",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Sindhudurg",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Solapur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Thane",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Wardha",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Washim",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Yavatmal",
+      "lat": null,
+      "lon": null
+    }
+  ],
+  "Manipur": [
+    {
+      "name": "Bishnupur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Chandel",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Churachandpur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Imphal East",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Imphal West",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Jiribam",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kakching",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kamjong",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kangpokpi",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Noney",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Pherzawl",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Senapati",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Tamenglong",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Tengnoupal",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Thoubal",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Ukhrul",
+      "lat": null,
+      "lon": null
+    }
+  ],
+  "Meghalaya": [
+    {
+      "name": "East Garo Hills",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "East Jaintia Hills",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "East Khasi Hills",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "North Garo Hills",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Ri Bhoi",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "South Garo Hills",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "South West Garo Hills",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "South West Khasi Hills",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "West Garo Hills",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "West Jaintia Hills",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "West Khasi Hills",
+      "lat": null,
+      "lon": null
+    }
+  ],
+  "Mizoram": [
+    {
+      "name": "Aizawl",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Champhai",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Hnahthial",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Khawzawl",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kolasib",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Lawngtlai",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Lunglei",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Mamit",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Saiha",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Saitual",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Serchhip",
+      "lat": null,
+      "lon": null
+    }
+  ],
+  "Nagaland": [
+    {
+      "name": "Chümoukedima",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Dimapur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kiphire",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kohima",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Longleng",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Mokokchung",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Mon",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Niuland",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Noklak",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Peren",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Phek",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Shamator",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Tuensang",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Tseminyu",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Wokha",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Zunheboto",
+      "lat": null,
+      "lon": null
+    }
+  ],
+  "Punjab": [
+    {
+      "name": "Amritsar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Barnala",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Bathinda",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Faridkot",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Fatehgarh Sahib",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Fazilka",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Ferozepur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Gurdaspur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Hoshiarpur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Jalandhar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kapurthala",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Ludhiana",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Mansa",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Moga",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Mohali",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Muktsar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Pathankot",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Patiala",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Rupnagar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Sangrur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Shaheed Bhagat Singh Nagar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Tarn Taran",
+      "lat": null,
+      "lon": null
+    }
+  ],
+  "Rajasthan": [
+    {
+      "name": "Ajmer",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Alwar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Banswara",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Baran",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Barmer",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Bharatpur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Bhilwara",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Bikaner",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Bundi",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Chittorgarh",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Churu",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Dausa",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Dholpur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Dungarpur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Hanumangarh",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Jaipur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Jaisalmer",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Jalore",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Jhalawar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Jhunjhunu",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Jodhpur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Karauli",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kota",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Nagaur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Pali",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Pratapgarh",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Rajsamand",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Sawai Madhopur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Sikar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Sirohi",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Sri Ganganagar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Tonk",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Udaipur",
+      "lat": null,
+      "lon": null
+    }
+  ],
+  "Sikkim": [
+    {
+      "name": "East Sikkim",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "North Sikkim",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "South Sikkim",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "West Sikkim",
+      "lat": null,
+      "lon": null
+    }
+  ],
+  "Tamil Nadu": [
+    {
+      "name": "Ariyalur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Chengalpattu",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Chennai",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Coimbatore",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Cuddalore",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Dharmapuri",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Dindigul",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Erode",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kallakurichi",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kanchipuram",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kanyakumari",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Karur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Krishnagiri",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Madurai",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Mayiladuthurai",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Nagapattinam",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Namakkal",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Nilgiris",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Perambalur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Pudukkottai",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Ramanathapuram",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Ranipet",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Salem",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Sivaganga",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Tenkasi",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Thanjavur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Theni",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Thoothukudi",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Tiruchirappalli",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Tirunelveli",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Tirupathur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Tiruppur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Tiruvallur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Tiruvannamalai",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Tiruvarur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Vellore",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Viluppuram",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Virudhunagar",
+      "lat": null,
+      "lon": null
+    }
+  ],
+  "Telangana": [
+    {
+      "name": "Adilabad",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Bhadradri Kothagudem",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Hyderabad",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Jagtial",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Jangaon",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Jayashankar Bhupalpally",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Jogulamba Gadwal",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kamareddy",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Karimnagar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Khammam",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Komaram Bheem Asifabad",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Mahabubabad",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Mahabubnagar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Mancherial",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Medak",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Medchal–Malkajgiri",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Mulugu",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Nagarkurnool",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Nalgonda",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Narayanpet",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Nirmal",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Nizamabad",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Peddapalli",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Rajanna Sircilla",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Ranga Reddy",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Sangareddy",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Siddipet",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Suryapet",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Vikarabad",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Wanaparthy",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Warangal Rural",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Warangal Urban",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Yadadri Bhuvanagiri",
+      "lat": null,
+      "lon": null
+    }
+  ],
+  "Tripura": [
+    {
+      "name": "Dhalai",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Gomati",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Khowai",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "North Tripura",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Sepahijala",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "South Tripura",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Unakoti",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "West Tripura",
+      "lat": null,
+      "lon": null
+    }
+  ],
+  "Uttar Pradesh": [
+    {
+      "name": "Agra",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Aligarh",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Ambedkar Nagar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Amethi",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Amroha",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Auraiya",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Ayodhya",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Azamgarh",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Baghpat",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Bahraich",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Ballia",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Balrampur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Banda",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Barabanki",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Bareilly",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Basti",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Bhadohi",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Bijnor",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Budaun",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Bulandshahr",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Chandauli",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Chitrakoot",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Deoria",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Etah",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Etawah",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Farrukhabad",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Fatehpur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Firozabad",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Gautam Buddha Nagar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Ghaziabad",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Ghazipur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Gonda",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Gorakhpur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Hamirpur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Hapur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Hardoi",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Hathras",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Jalaun",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Jaunpur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Jhansi",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kannauj",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kanpur Dehat",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kanpur Nagar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kasganj",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kaushambi",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kheri",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kushinagar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Lalitpur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Lucknow",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Maharajganj",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Mahoba",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Mainpuri",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Mathura",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Mau",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Meerut",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Mirzapur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Moradabad",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Muzaffarnagar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Pilibhit",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Pratapgarh",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Prayagraj",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Raebareli",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Rampur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Saharanpur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Sambhal",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Sant Kabir Nagar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Shahjahanpur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Shamli",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Shravasti",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Siddharthnagar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Sitapur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Sonbhadra",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Sultanpur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Unnao",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Varanasi",
+      "lat": null,
+      "lon": null
+    }
+  ],
+  "Uttarakhand": [
+    {
+      "name": "Almora",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Bageshwar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Chamoli",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Champawat",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Dehradun",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Haridwar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Nainital",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Pauri Garhwal",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Pithoragarh",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Rudraprayag",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Tehri Garhwal",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Udham Singh Nagar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Uttarkashi",
+      "lat": null,
+      "lon": null
+    }
+  ],
+  "West Bengal": [
+    {
+      "name": "Alipurduar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Bankura",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Birbhum",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Cooch Behar",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Dakshin Dinajpur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Darjeeling",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Hooghly",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Howrah",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Jalpaiguri",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Jhargram",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kalimpong",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Kolkata",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Malda",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Murshidabad",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Nadia",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "North 24 Parganas",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Paschim Bardhaman",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Paschim Medinipur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Purba Bardhaman",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Purba Medinipur",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Purulia",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "South 24 Parganas",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "name": "Uttar Dinajpur",
+      "lat": null,
+      "lon": null
+    }
+  ]
+}
