@@ -1,0 +1,720 @@
+State Name,District Name,Soil_Type
+ANDAMAN & NICOBAR ISLANDS,Nicobars,Laterite Soil
+ANDAMAN & NICOBAR ISLANDS,North and Middle Andaman,Laterite Soil
+ANDAMAN & NICOBAR ISLANDS,South Andaman,Laterite Soil
+ANDHRA PRADESH,Anantapur,Red & Black Soil
+ANDHRA PRADESH,Chittoor,Red & Black Soil
+ANDHRA PRADESH,East Godavari,Red & Black Soil
+ANDHRA PRADESH,Guntur,Red & Black Soil
+ANDHRA PRADESH,Krishna,Red & Black Soil
+ANDHRA PRADESH,Kurnool,Red & Black Soil
+ANDHRA PRADESH,Prakasam,Red & Black Soil
+ANDHRA PRADESH,Sri Potti Sriramulu Nellore,Red & Black Soil
+ANDHRA PRADESH,Srikakulam,Red & Black Soil
+ANDHRA PRADESH,Visakhapatnam,Red & Black Soil
+ANDHRA PRADESH,Vizianagaram,Red & Black Soil
+ANDHRA PRADESH,West Godavari,Red & Black Soil
+ANDHRA PRADESH,Y.S.R.,Red & Black Soil
+ARUNACHAL PRADESH,Anjaw,Forest & Mountain Soil
+ARUNACHAL PRADESH,Changlang,Forest & Mountain Soil
+ARUNACHAL PRADESH,Dibang Valley,Forest & Mountain Soil
+ARUNACHAL PRADESH,East Kameng,Forest & Mountain Soil
+ARUNACHAL PRADESH,East Siang,Forest & Mountain Soil
+ARUNACHAL PRADESH,Kra Daadi,Forest & Mountain Soil
+ARUNACHAL PRADESH,Kurung Kumey,Forest & Mountain Soil
+ARUNACHAL PRADESH,Lohit,Forest & Mountain Soil
+ARUNACHAL PRADESH,Lower Dibang Valley,Forest & Mountain Soil
+ARUNACHAL PRADESH,Lower Siang,Forest & Mountain Soil
+ARUNACHAL PRADESH,Lower Subansiri,Forest & Mountain Soil
+ARUNACHAL PRADESH,Namsai,Forest & Mountain Soil
+ARUNACHAL PRADESH,Papum Pare,Forest & Mountain Soil
+ARUNACHAL PRADESH,Siang,Forest & Mountain Soil
+ARUNACHAL PRADESH,Tawang,Forest & Mountain Soil
+ARUNACHAL PRADESH,Tirap,Forest & Mountain Soil
+ARUNACHAL PRADESH,Upper Siang,Forest & Mountain Soil
+ARUNACHAL PRADESH,Upper Subansiri,Forest & Mountain Soil
+ARUNACHAL PRADESH,West Kameng,Forest & Mountain Soil
+ARUNACHAL PRADESH,West Siang,Forest & Mountain Soil
+ASSAM,Baksa,Alluvial Soil
+ASSAM,Barpeta,Alluvial Soil
+ASSAM,Biswanath,Alluvial Soil
+ASSAM,Bongaigaon,Alluvial Soil
+ASSAM,Cachar,Alluvial Soil
+ASSAM,Charaideo,Alluvial Soil
+ASSAM,Chirang,Alluvial Soil
+ASSAM,Darrang,Alluvial Soil
+ASSAM,Dhemaji,Alluvial Soil
+ASSAM,Dhubri,Alluvial Soil
+ASSAM,Dibrugarh,Alluvial Soil
+ASSAM,Dima Hasao,Alluvial Soil
+ASSAM,Goalpara,Alluvial Soil
+ASSAM,Golaghat,Alluvial Soil
+ASSAM,Hailakandi,Alluvial Soil
+ASSAM,Hojai,Alluvial Soil
+ASSAM,Jorhat,Alluvial Soil
+ASSAM,Kamrup,Alluvial Soil
+ASSAM,Kamrup Metropolitan,Alluvial Soil
+ASSAM,Karbi Anglong,Alluvial Soil
+ASSAM,Karimganj,Alluvial Soil
+ASSAM,Kokrajhar,Alluvial Soil
+ASSAM,Lakhimpur,Alluvial Soil
+ASSAM,Majuli,Alluvial Soil
+ASSAM,Morigaon,Alluvial Soil
+ASSAM,Nagaon,Alluvial Soil
+ASSAM,Nalbari,Alluvial Soil
+ASSAM,Sivasagar,Alluvial Soil
+ASSAM,Sonitpur,Alluvial Soil
+ASSAM,South Salamara-Mankachar,Alluvial Soil
+ASSAM,Tinsukia,Alluvial Soil
+ASSAM,Udalguri,Alluvial Soil
+ASSAM,West Karbi Anglong,Alluvial Soil
+BIHAR,Araria,Alluvial Soil
+BIHAR,Arwal,Alluvial Soil
+BIHAR,Aurangabad,Alluvial Soil
+BIHAR,Banka,Alluvial Soil
+BIHAR,Begusarai,Alluvial Soil
+BIHAR,Bhagalpur,Alluvial Soil
+BIHAR,Bhojpur,Alluvial Soil
+BIHAR,Buxar,Alluvial Soil
+BIHAR,Darbhanga,Alluvial Soil
+BIHAR,Gaya,Alluvial Soil
+BIHAR,Gopalganj,Alluvial Soil
+BIHAR,Jamui,Alluvial Soil
+BIHAR,Jehanabad,Alluvial Soil
+BIHAR,Kaimur (Bhabua),Alluvial Soil
+BIHAR,Katihar,Alluvial Soil
+BIHAR,Khagaria,Alluvial Soil
+BIHAR,Kishanganj,Alluvial Soil
+BIHAR,Lakhisarai,Alluvial Soil
+BIHAR,Madhepura,Alluvial Soil
+BIHAR,Madhubani,Alluvial Soil
+BIHAR,Munger,Alluvial Soil
+BIHAR,Muzaffarpur,Alluvial Soil
+BIHAR,Nalanda,Alluvial Soil
+BIHAR,Nawada,Alluvial Soil
+BIHAR,Pashchim Champaran,Alluvial Soil
+BIHAR,Patna,Alluvial Soil
+BIHAR,Purbi Champaran,Alluvial Soil
+BIHAR,Purnia,Alluvial Soil
+BIHAR,Rohtas,Alluvial Soil
+BIHAR,Saharsa,Alluvial Soil
+BIHAR,Samastipur,Alluvial Soil
+BIHAR,Saran,Alluvial Soil
+BIHAR,Sheikhpura,Alluvial Soil
+BIHAR,Sheohar,Alluvial Soil
+BIHAR,Sitamarhi,Alluvial Soil
+BIHAR,Siwan,Alluvial Soil
+BIHAR,Supaul,Alluvial Soil
+BIHAR,Vaishali,Alluvial Soil
+CHANDIGARH,Chandigarh,Alluvial Soil
+CHHATTISGARH,Balod,Red & Laterite Soil
+CHHATTISGARH,Baloda Bazar,Red & Laterite Soil
+CHHATTISGARH,Balrampur,Red & Laterite Soil
+CHHATTISGARH,Bastar,Red & Laterite Soil
+CHHATTISGARH,Bemetara,Red & Laterite Soil
+CHHATTISGARH,Bijapur,Red & Laterite Soil
+CHHATTISGARH,Bilaspur,Red & Laterite Soil
+CHHATTISGARH,Dakshin Bastar Dantewada,Red & Laterite Soil
+CHHATTISGARH,Dhamtari,Red & Laterite Soil
+CHHATTISGARH,Durg,Red & Laterite Soil
+CHHATTISGARH,Gariyaband,Red & Laterite Soil
+CHHATTISGARH,Janjgir - Champa,Red & Laterite Soil
+CHHATTISGARH,Jashpur,Red & Laterite Soil
+CHHATTISGARH,Kabeerdham,Red & Laterite Soil
+CHHATTISGARH,Kondagaon,Red & Laterite Soil
+CHHATTISGARH,Korba,Red & Laterite Soil
+CHHATTISGARH,Koriya,Red & Laterite Soil
+CHHATTISGARH,Mahasamund,Red & Laterite Soil
+CHHATTISGARH,Mungeli,Red & Laterite Soil
+CHHATTISGARH,Narayanpur,Red & Laterite Soil
+CHHATTISGARH,Raigarh,Red & Laterite Soil
+CHHATTISGARH,Raipur,Red & Laterite Soil
+CHHATTISGARH,Rajnandgaon,Red & Laterite Soil
+CHHATTISGARH,Sukma,Red & Laterite Soil
+CHHATTISGARH,Surajpur,Red & Laterite Soil
+CHHATTISGARH,Surguja,Red & Laterite Soil
+CHHATTISGARH,Uttar Bastar Kanker,Red & Laterite Soil
+DADRA & NAGAR HAVELI,Dadra and Nagar Haveli,Coastal Soil
+DAMAN AND DIU,Daman,Unknown
+DAMAN AND DIU,Diu,Unknown
+GOA,North Goa,Laterite Soil
+GOA,South Goa,Laterite Soil
+GUJARAT,Ahmadabad,Black Soil
+GUJARAT,Amreli,Black Soil
+GUJARAT,Anand,Black Soil
+GUJARAT,Arvalli,Black Soil
+GUJARAT,Banas Kantha,Black Soil
+GUJARAT,Bharuch,Black Soil
+GUJARAT,Bhavnagar,Black Soil
+GUJARAT,Botad,Black Soil
+GUJARAT,Chhota Udepur,Black Soil
+GUJARAT,Devbhoomi Dwarka,Black Soil
+GUJARAT,Dohad,Black Soil
+GUJARAT,Gandhinagar,Black Soil
+GUJARAT,Gir Somnath,Black Soil
+GUJARAT,Jamnagar,Black Soil
+GUJARAT,Junagadh,Black Soil
+GUJARAT,Kachchh,Black Soil
+GUJARAT,Kheda,Black Soil
+GUJARAT,Mahesana,Black Soil
+GUJARAT,Mahisagar,Black Soil
+GUJARAT,Morbi,Black Soil
+GUJARAT,Narmada,Black Soil
+GUJARAT,Navsari,Black Soil
+GUJARAT,Panch Mahals,Black Soil
+GUJARAT,Patan,Black Soil
+GUJARAT,Porbandar,Black Soil
+GUJARAT,Rajkot,Black Soil
+GUJARAT,Sabar Kantha,Black Soil
+GUJARAT,Surat,Black Soil
+GUJARAT,Surendranagar,Black Soil
+GUJARAT,Tapi,Black Soil
+GUJARAT,The Dangs,Black Soil
+GUJARAT,Vadodara,Black Soil
+GUJARAT,Valsad,Black Soil
+HARYANA,Ambala,Alluvial Soil
+HARYANA,Bhiwani,Alluvial Soil
+HARYANA,Charkhi Dadri,Alluvial Soil
+HARYANA,Faridabad,Alluvial Soil
+HARYANA,Fatehabad,Alluvial Soil
+HARYANA,Gurgaon,Alluvial Soil
+HARYANA,Hisar,Alluvial Soil
+HARYANA,Jhajjar,Alluvial Soil
+HARYANA,Jind,Alluvial Soil
+HARYANA,Kaithal,Alluvial Soil
+HARYANA,Karnal,Alluvial Soil
+HARYANA,Kurukshetra,Alluvial Soil
+HARYANA,Mahendragarh,Alluvial Soil
+HARYANA,Mewat,Alluvial Soil
+HARYANA,Palwal,Alluvial Soil
+HARYANA,Panchkula,Alluvial Soil
+HARYANA,Panipat,Alluvial Soil
+HARYANA,Rewari,Alluvial Soil
+HARYANA,Rohtak,Alluvial Soil
+HARYANA,Sirsa,Alluvial Soil
+HARYANA,Sonipat,Alluvial Soil
+HARYANA,Yamunanagar,Alluvial Soil
+HIMACHAL PRADESH,Bilaspur,Mountain Soil
+HIMACHAL PRADESH,Chamba,Mountain Soil
+HIMACHAL PRADESH,Hamirpur,Mountain Soil
+HIMACHAL PRADESH,Kangra,Mountain Soil
+HIMACHAL PRADESH,Kinnaur,Mountain Soil
+HIMACHAL PRADESH,Kullu,Mountain Soil
+HIMACHAL PRADESH,Lahul Spiti,Mountain Soil
+HIMACHAL PRADESH,Mandi,Mountain Soil
+HIMACHAL PRADESH,Shimla,Mountain Soil
+HIMACHAL PRADESH,Sirmaur,Mountain Soil
+HIMACHAL PRADESH,Solan,Mountain Soil
+HIMACHAL PRADESH,Una,Mountain Soil
+JAMMU AND KASHMIR,Anantnag,Unknown
+JAMMU AND KASHMIR,Badgam,Unknown
+JAMMU AND KASHMIR,Bandipore,Unknown
+JAMMU AND KASHMIR,Baramula,Unknown
+JAMMU AND KASHMIR,Doda,Unknown
+JAMMU AND KASHMIR,Ganderbal,Unknown
+JAMMU AND KASHMIR,Jammu,Unknown
+JAMMU AND KASHMIR,Kargil,Unknown
+JAMMU AND KASHMIR,Kathua,Unknown
+JAMMU AND KASHMIR,Kishtwar,Unknown
+JAMMU AND KASHMIR,Kulgam,Unknown
+JAMMU AND KASHMIR,Kupwara,Unknown
+JAMMU AND KASHMIR,Leh(Ladakh),Unknown
+JAMMU AND KASHMIR,Pulwama,Unknown
+JAMMU AND KASHMIR,Punch,Unknown
+JAMMU AND KASHMIR,Rajouri,Unknown
+JAMMU AND KASHMIR,Ramban,Unknown
+JAMMU AND KASHMIR,Reasi,Unknown
+JAMMU AND KASHMIR,Samba,Unknown
+JAMMU AND KASHMIR,Shupiyan,Unknown
+JAMMU AND KASHMIR,Srinagar,Unknown
+JAMMU AND KASHMIR,Udhampur,Unknown
+JHARKHAND,Bokaro,Red Soil
+JHARKHAND,Chatra,Red Soil
+JHARKHAND,Deoghar,Red Soil
+JHARKHAND,Dhanbad,Red Soil
+JHARKHAND,Dumka,Red Soil
+JHARKHAND,Garhwa,Red Soil
+JHARKHAND,Giridih,Red Soil
+JHARKHAND,Godda,Red Soil
+JHARKHAND,Gumla,Red Soil
+JHARKHAND,Hazaribagh,Red Soil
+JHARKHAND,Jamtara,Red Soil
+JHARKHAND,Khunti,Red Soil
+JHARKHAND,Kodarma,Red Soil
+JHARKHAND,Latehar,Red Soil
+JHARKHAND,Lohardaga,Red Soil
+JHARKHAND,Pakur,Red Soil
+JHARKHAND,Palamu,Red Soil
+JHARKHAND,Pashchimi Singhbhum,Red Soil
+JHARKHAND,Purbi Singhbhum,Red Soil
+JHARKHAND,Ramgarh,Red Soil
+JHARKHAND,Ranchi,Red Soil
+JHARKHAND,Sahibganj,Red Soil
+JHARKHAND,Saraikela-Kharsawan,Red Soil
+JHARKHAND,Simdega,Red Soil
+KARNATAKA,Bagalkot,Red & Black Soil
+KARNATAKA,Bangalore,Red & Black Soil
+KARNATAKA,Bangalore Rural,Red & Black Soil
+KARNATAKA,Belgaum,Red & Black Soil
+KARNATAKA,Bellary,Red & Black Soil
+KARNATAKA,Bidar,Red & Black Soil
+KARNATAKA,Bijapur,Red & Black Soil
+KARNATAKA,Chamarajanagar,Red & Black Soil
+KARNATAKA,Chikkaballapura,Red & Black Soil
+KARNATAKA,Chikmagalur,Red & Black Soil
+KARNATAKA,Chitradurga,Red & Black Soil
+KARNATAKA,Dakshina Kannada,Red & Black Soil
+KARNATAKA,Davanagere,Red & Black Soil
+KARNATAKA,Dharwad,Red & Black Soil
+KARNATAKA,Gadag,Red & Black Soil
+KARNATAKA,Gulbarga,Red & Black Soil
+KARNATAKA,Hassan,Red & Black Soil
+KARNATAKA,Haveri,Red & Black Soil
+KARNATAKA,Kodagu,Red & Black Soil
+KARNATAKA,Kolar,Red & Black Soil
+KARNATAKA,Koppal,Red & Black Soil
+KARNATAKA,Mandya,Red & Black Soil
+KARNATAKA,Mysore,Red & Black Soil
+KARNATAKA,Raichur,Red & Black Soil
+KARNATAKA,Ramanagara,Red & Black Soil
+KARNATAKA,Shimoga,Red & Black Soil
+KARNATAKA,Tumkur,Red & Black Soil
+KARNATAKA,Udupi,Red & Black Soil
+KARNATAKA,Uttara Kannada,Red & Black Soil
+KARNATAKA,Yadgir,Red & Black Soil
+KERALA,Alappuzha,Laterite Soil
+KERALA,Ernakulam,Laterite Soil
+KERALA,Idukki,Laterite Soil
+KERALA,Kannur,Laterite Soil
+KERALA,Kasaragod,Laterite Soil
+KERALA,Kollam,Laterite Soil
+KERALA,Kottayam,Laterite Soil
+KERALA,Kozhikode,Laterite Soil
+KERALA,Malappuram,Laterite Soil
+KERALA,Palakkad,Laterite Soil
+KERALA,Pathanamthitta,Laterite Soil
+KERALA,Thiruvananthapuram,Laterite Soil
+KERALA,Thrissur,Laterite Soil
+KERALA,Wayanad,Laterite Soil
+LAKSHADWEEP,Lakshadweep,Coastal Soil
+MADHYA PRADESH,Agar Malwa,Black Soil
+MADHYA PRADESH,Alirajpur,Black Soil
+MADHYA PRADESH,Anuppur,Black Soil
+MADHYA PRADESH,Ashoknagar,Black Soil
+MADHYA PRADESH,Balaghat,Black Soil
+MADHYA PRADESH,Barwani,Black Soil
+MADHYA PRADESH,Betul,Black Soil
+MADHYA PRADESH,Bhind,Black Soil
+MADHYA PRADESH,Bhopal,Black Soil
+MADHYA PRADESH,Burhanpur,Black Soil
+MADHYA PRADESH,Chhatarpur,Black Soil
+MADHYA PRADESH,Chhindwara,Black Soil
+MADHYA PRADESH,Damoh,Black Soil
+MADHYA PRADESH,Datia,Black Soil
+MADHYA PRADESH,Dewas,Black Soil
+MADHYA PRADESH,Dhar,Black Soil
+MADHYA PRADESH,Dindori,Black Soil
+MADHYA PRADESH,Guna,Black Soil
+MADHYA PRADESH,Gwalior,Black Soil
+MADHYA PRADESH,Harda,Black Soil
+MADHYA PRADESH,Hoshangabad,Black Soil
+MADHYA PRADESH,Indore,Black Soil
+MADHYA PRADESH,Jabalpur,Black Soil
+MADHYA PRADESH,Jhabua,Black Soil
+MADHYA PRADESH,Katni,Black Soil
+MADHYA PRADESH,Khandwa (East Nimar),Black Soil
+MADHYA PRADESH,Khargone (West Nimar),Black Soil
+MADHYA PRADESH,Mandla,Black Soil
+MADHYA PRADESH,Mandsaur,Black Soil
+MADHYA PRADESH,Morena,Black Soil
+MADHYA PRADESH,Narsimhapur,Black Soil
+MADHYA PRADESH,Neemuch,Black Soil
+MADHYA PRADESH,Panna,Black Soil
+MADHYA PRADESH,Raisen,Black Soil
+MADHYA PRADESH,Rajgarh,Black Soil
+MADHYA PRADESH,Ratlam,Black Soil
+MADHYA PRADESH,Rewa,Black Soil
+MADHYA PRADESH,Sagar,Black Soil
+MADHYA PRADESH,Satna,Black Soil
+MADHYA PRADESH,Sehore,Black Soil
+MADHYA PRADESH,Seoni,Black Soil
+MADHYA PRADESH,Shahdol,Black Soil
+MADHYA PRADESH,Shajapur,Black Soil
+MADHYA PRADESH,Sheopur,Black Soil
+MADHYA PRADESH,Shivpuri,Black Soil
+MADHYA PRADESH,Sidhi,Black Soil
+MADHYA PRADESH,Singrauli,Black Soil
+MADHYA PRADESH,Tikamgarh,Black Soil
+MADHYA PRADESH,Ujjain,Black Soil
+MADHYA PRADESH,Umaria,Black Soil
+MADHYA PRADESH,Vidisha,Black Soil
+MAHARASHTRA,Ahmadnagar,Black Soil
+MAHARASHTRA,Akola,Black Soil
+MAHARASHTRA,Amravati,Black Soil
+MAHARASHTRA,Aurangabad,Black Soil
+MAHARASHTRA,Bhandara,Black Soil
+MAHARASHTRA,Bid,Black Soil
+MAHARASHTRA,Buldana,Black Soil
+MAHARASHTRA,Chandrapur,Black Soil
+MAHARASHTRA,Dhule,Black Soil
+MAHARASHTRA,Gadchiroli,Black Soil
+MAHARASHTRA,Gondiya,Black Soil
+MAHARASHTRA,Hingoli,Black Soil
+MAHARASHTRA,Jalgaon,Black Soil
+MAHARASHTRA,Jalna,Black Soil
+MAHARASHTRA,Kolhapur,Black Soil
+MAHARASHTRA,Latur,Black Soil
+MAHARASHTRA,Mumbai,Black Soil
+MAHARASHTRA,Mumbai Suburban,Black Soil
+MAHARASHTRA,Nagpur,Black Soil
+MAHARASHTRA,Nanded,Black Soil
+MAHARASHTRA,Nandurbar,Black Soil
+MAHARASHTRA,Nashik,Black Soil
+MAHARASHTRA,Osmanabad,Black Soil
+MAHARASHTRA,Palghar,Black Soil
+MAHARASHTRA,Parbhani,Black Soil
+MAHARASHTRA,Pune,Black Soil
+MAHARASHTRA,Raigarh,Black Soil
+MAHARASHTRA,Ratnagiri,Black Soil
+MAHARASHTRA,Sangli,Black Soil
+MAHARASHTRA,Satara,Black Soil
+MAHARASHTRA,Sindhudurg,Black Soil
+MAHARASHTRA,Solapur,Black Soil
+MAHARASHTRA,Thane,Black Soil
+MAHARASHTRA,Wardha,Black Soil
+MAHARASHTRA,Washim,Black Soil
+MAHARASHTRA,Yavatmal,Black Soil
+MANIPUR,Bishnupur,Forest & Mountain Soil
+MANIPUR,Chandel,Forest & Mountain Soil
+MANIPUR,Churachandpur,Forest & Mountain Soil
+MANIPUR,Imphal East,Forest & Mountain Soil
+MANIPUR,Imphal West,Forest & Mountain Soil
+MANIPUR,Jiribam,Forest & Mountain Soil
+MANIPUR,Kakching,Forest & Mountain Soil
+MANIPUR,Kamjong,Forest & Mountain Soil
+MANIPUR,Kangpokpi,Forest & Mountain Soil
+MANIPUR,Noney,Forest & Mountain Soil
+MANIPUR,Pherzawl,Forest & Mountain Soil
+MANIPUR,Senapati,Forest & Mountain Soil
+MANIPUR,Tamenglong,Forest & Mountain Soil
+MANIPUR,Tengnoupal,Forest & Mountain Soil
+MANIPUR,Thoubal,Forest & Mountain Soil
+MANIPUR,Ukhrul,Forest & Mountain Soil
+MEGHALAYA,East Garo Hills,Laterite Soil
+MEGHALAYA,East Jaintia Hills,Laterite Soil
+MEGHALAYA,East Khasi Hills,Laterite Soil
+MEGHALAYA,Jaintia Hills,Laterite Soil
+MEGHALAYA,North Garo Hills,Laterite Soil
+MEGHALAYA,Ribhoi,Laterite Soil
+MEGHALAYA,South Garo Hills,Laterite Soil
+MEGHALAYA,South West Garo Hills,Laterite Soil
+MEGHALAYA,South West Khasi Hills,Laterite Soil
+MEGHALAYA,West Garo Hills,Laterite Soil
+MEGHALAYA,West Jaintia Hills,Laterite Soil
+MEGHALAYA,West Khasi Hills,Laterite Soil
+MIZORAM,Aizawl,Forest Soil
+MIZORAM,Champhai,Forest Soil
+MIZORAM,Kolasib,Forest Soil
+MIZORAM,Lawngtlai,Forest Soil
+MIZORAM,Lunglei,Forest Soil
+MIZORAM,Mamit,Forest Soil
+MIZORAM,Saiha,Forest Soil
+MIZORAM,Serchhip,Forest Soil
+NAGALAND,Dimapur,Forest Soil
+NAGALAND,Kiphire,Forest Soil
+NAGALAND,Kohima,Forest Soil
+NAGALAND,Longleng,Forest Soil
+NAGALAND,Mokokchung,Forest Soil
+NAGALAND,Mon,Forest Soil
+NAGALAND,Peren,Forest Soil
+NAGALAND,Phek,Forest Soil
+NAGALAND,Tuensang,Forest Soil
+NAGALAND,Wokha,Forest Soil
+NAGALAND,Zunheboto,Forest Soil
+NCT OF DELHI,Central,Unknown
+NCT OF DELHI,East,Unknown
+NCT OF DELHI,New Delhi,Unknown
+NCT OF DELHI,North,Unknown
+NCT OF DELHI,North East,Unknown
+NCT OF DELHI,North West,Unknown
+NCT OF DELHI,Shahdara,Unknown
+NCT OF DELHI,South,Unknown
+NCT OF DELHI,South East Delhi,Unknown
+NCT OF DELHI,South West,Unknown
+NCT OF DELHI,West,Unknown
+ODISHA,Anugul,Red & Laterite Soil
+ODISHA,Balangir,Red & Laterite Soil
+ODISHA,Baleshwar,Red & Laterite Soil
+ODISHA,Bargarh,Red & Laterite Soil
+ODISHA,Baudh,Red & Laterite Soil
+ODISHA,Bhadrak,Red & Laterite Soil
+ODISHA,Cuttack,Red & Laterite Soil
+ODISHA,Debagarh,Red & Laterite Soil
+ODISHA,Dhenkanal,Red & Laterite Soil
+ODISHA,Gajapati,Red & Laterite Soil
+ODISHA,Ganjam,Red & Laterite Soil
+ODISHA,Jagatsinghapur,Red & Laterite Soil
+ODISHA,Jajapur,Red & Laterite Soil
+ODISHA,Jharsuguda,Red & Laterite Soil
+ODISHA,Kalahandi,Red & Laterite Soil
+ODISHA,Kandhamal,Red & Laterite Soil
+ODISHA,Kendrapara,Red & Laterite Soil
+ODISHA,Kendujhar,Red & Laterite Soil
+ODISHA,Khordha,Red & Laterite Soil
+ODISHA,Koraput,Red & Laterite Soil
+ODISHA,Malkangiri,Red & Laterite Soil
+ODISHA,Mayurbhanj,Red & Laterite Soil
+ODISHA,Nabarangapur,Red & Laterite Soil
+ODISHA,Nayagarh,Red & Laterite Soil
+ODISHA,Nuapada,Red & Laterite Soil
+ODISHA,Puri,Red & Laterite Soil
+ODISHA,Rayagada,Red & Laterite Soil
+ODISHA,Sambalpur,Red & Laterite Soil
+ODISHA,Subarnapur,Red & Laterite Soil
+ODISHA,Sundargarh,Red & Laterite Soil
+PUDUCHERRY,Karaikal,Laterite Soil
+PUDUCHERRY,Mahe,Laterite Soil
+PUDUCHERRY,Puducherry,Laterite Soil
+PUDUCHERRY,Yanam,Laterite Soil
+PUNJAB,Amritsar,Alluvial Soil
+PUNJAB,Barnala,Alluvial Soil
+PUNJAB,Bathinda,Alluvial Soil
+PUNJAB,Faridkot,Alluvial Soil
+PUNJAB,Fatehgarh Sahib,Alluvial Soil
+PUNJAB,Fazilka,Alluvial Soil
+PUNJAB,Firozpur,Alluvial Soil
+PUNJAB,Gurdaspur,Alluvial Soil
+PUNJAB,Hoshiarpur,Alluvial Soil
+PUNJAB,Jalandhar,Alluvial Soil
+PUNJAB,Kapurthala,Alluvial Soil
+PUNJAB,Ludhiana,Alluvial Soil
+PUNJAB,Mansa,Alluvial Soil
+PUNJAB,Moga,Alluvial Soil
+PUNJAB,Muktsar,Alluvial Soil
+PUNJAB,Pathankot,Alluvial Soil
+PUNJAB,Patiala,Alluvial Soil
+PUNJAB,Rupnagar,Alluvial Soil
+PUNJAB,Sahibzada Ajit Singh Nagar,Alluvial Soil
+PUNJAB,Sangrur,Alluvial Soil
+PUNJAB,Shahid Bhagat Singh Nagar,Alluvial Soil
+PUNJAB,Tarn Taran,Alluvial Soil
+RAJASTHAN,Ajmer,Desert Soil
+RAJASTHAN,Alwar,Desert Soil
+RAJASTHAN,Banswara,Desert Soil
+RAJASTHAN,Baran,Desert Soil
+RAJASTHAN,Barmer,Desert Soil
+RAJASTHAN,Bharatpur,Desert Soil
+RAJASTHAN,Bhilwara,Desert Soil
+RAJASTHAN,Bikaner,Desert Soil
+RAJASTHAN,Bundi,Desert Soil
+RAJASTHAN,Chittaurgarh,Desert Soil
+RAJASTHAN,Churu,Desert Soil
+RAJASTHAN,Dausa,Desert Soil
+RAJASTHAN,Dhaulpur,Desert Soil
+RAJASTHAN,Dungarpur,Desert Soil
+RAJASTHAN,Hanumangarh,Desert Soil
+RAJASTHAN,Jaipur,Desert Soil
+RAJASTHAN,Jaisalmer,Desert Soil
+RAJASTHAN,Jalor,Desert Soil
+RAJASTHAN,Jhalawar,Desert Soil
+RAJASTHAN,Jhunjhunun,Desert Soil
+RAJASTHAN,Jodhpur,Desert Soil
+RAJASTHAN,Karauli,Desert Soil
+RAJASTHAN,Kota,Desert Soil
+RAJASTHAN,Nagaur,Desert Soil
+RAJASTHAN,Pali,Desert Soil
+RAJASTHAN,Pratapgarh,Desert Soil
+RAJASTHAN,Rajsamand,Desert Soil
+RAJASTHAN,Sawai Madhopur,Desert Soil
+RAJASTHAN,Sikar,Desert Soil
+RAJASTHAN,Sirohi,Desert Soil
+RAJASTHAN,Sri Ganganagar,Desert Soil
+RAJASTHAN,Tonk,Desert Soil
+RAJASTHAN,Udaipur,Desert Soil
+SIKKIM,East District,Mountain Soil
+SIKKIM,North  District,Mountain Soil
+SIKKIM,South District,Mountain Soil
+SIKKIM,West District,Mountain Soil
+TAMIL NADU,Ariyalur,Red Soil
+TAMIL NADU,Chennai,Red Soil
+TAMIL NADU,Coimbatore,Red Soil
+TAMIL NADU,Cuddalore,Red Soil
+TAMIL NADU,Dharmapuri,Red Soil
+TAMIL NADU,Dindigul,Red Soil
+TAMIL NADU,Erode,Red Soil
+TAMIL NADU,Kancheepuram,Red Soil
+TAMIL NADU,Kanniyakumari,Red Soil
+TAMIL NADU,Karur,Red Soil
+TAMIL NADU,Krishnagiri,Red Soil
+TAMIL NADU,Madurai,Red Soil
+TAMIL NADU,Nagapattinam,Red Soil
+TAMIL NADU,Namakkal,Red Soil
+TAMIL NADU,Perambalur,Red Soil
+TAMIL NADU,Pudukkottai,Red Soil
+TAMIL NADU,Ramanathapuram,Red Soil
+TAMIL NADU,Salem,Red Soil
+TAMIL NADU,Sivaganga,Red Soil
+TAMIL NADU,Thanjavur,Red Soil
+TAMIL NADU,The Nilgiris,Red Soil
+TAMIL NADU,Theni,Red Soil
+TAMIL NADU,Thiruvallur,Red Soil
+TAMIL NADU,Thiruvarur,Red Soil
+TAMIL NADU,Thoothukkudi,Red Soil
+TAMIL NADU,Tiruchirappalli,Red Soil
+TAMIL NADU,Tirunelveli,Red Soil
+TAMIL NADU,Tiruppur,Red Soil
+TAMIL NADU,Tiruvannamalai,Red Soil
+TAMIL NADU,Vellore,Red Soil
+TAMIL NADU,Viluppuram,Red Soil
+TAMIL NADU,Virudhunagar,Red Soil
+TELANGANA,Adilabad,Red & Black Soil
+TELANGANA,Bhadradri,Red & Black Soil
+TELANGANA,Hyderabad,Red & Black Soil
+TELANGANA,Jagtial,Red & Black Soil
+TELANGANA,Jangaon,Red & Black Soil
+TELANGANA,Jayashankar,Red & Black Soil
+TELANGANA,Jogulamba,Red & Black Soil
+TELANGANA,Kamareddy,Red & Black Soil
+TELANGANA,Karimnagar,Red & Black Soil
+TELANGANA,Khammam,Red & Black Soil
+TELANGANA,Komaram Bheem,Red & Black Soil
+TELANGANA,Mahabubabad,Red & Black Soil
+TELANGANA,Mahbubnagar,Red & Black Soil
+TELANGANA,Mancherial,Red & Black Soil
+TELANGANA,Medak,Red & Black Soil
+TELANGANA,Medchal-Malkajgiri,Red & Black Soil
+TELANGANA,Nagarkurnool,Red & Black Soil
+TELANGANA,Nalgonda,Red & Black Soil
+TELANGANA,Nirmal,Red & Black Soil
+TELANGANA,Nizamabad,Red & Black Soil
+TELANGANA,Peddapalli,Red & Black Soil
+TELANGANA,Rajanna,Red & Black Soil
+TELANGANA,Rangareddy,Red & Black Soil
+TELANGANA,Sangareddy,Red & Black Soil
+TELANGANA,Siddipet,Red & Black Soil
+TELANGANA,Suryapet,Red & Black Soil
+TELANGANA,Vikarabad,Red & Black Soil
+TELANGANA,Wanaparthy,Red & Black Soil
+TELANGANA,Warangal Rural,Red & Black Soil
+TELANGANA,Warangal Urban,Red & Black Soil
+TELANGANA,Yadadri,Red & Black Soil
+TRIPURA,Dhalai,Alluvial Soil
+TRIPURA,Gomati,Alluvial Soil
+TRIPURA,Khowai,Alluvial Soil
+TRIPURA,North Tripura,Alluvial Soil
+TRIPURA,Sepahijala,Alluvial Soil
+TRIPURA,South Tripura,Alluvial Soil
+TRIPURA,Unakoti,Alluvial Soil
+TRIPURA,West Tripura,Alluvial Soil
+UTTAR PRADESH,Agra,Alluvial Soil
+UTTAR PRADESH,Aligarh,Alluvial Soil
+UTTAR PRADESH,Allahabad,Alluvial Soil
+UTTAR PRADESH,Ambedkar Nagar,Alluvial Soil
+UTTAR PRADESH,Amethi,Alluvial Soil
+UTTAR PRADESH,Amroha,Alluvial Soil
+UTTAR PRADESH,Auraiya,Alluvial Soil
+UTTAR PRADESH,Azamgarh,Alluvial Soil
+UTTAR PRADESH,Baghpat,Alluvial Soil
+UTTAR PRADESH,Bahraich,Alluvial Soil
+UTTAR PRADESH,Ballia,Alluvial Soil
+UTTAR PRADESH,Balrampur,Alluvial Soil
+UTTAR PRADESH,Banda,Alluvial Soil
+UTTAR PRADESH,Bara Banki,Alluvial Soil
+UTTAR PRADESH,Bareilly,Alluvial Soil
+UTTAR PRADESH,Basti,Alluvial Soil
+UTTAR PRADESH,Bhadohi,Alluvial Soil
+UTTAR PRADESH,Bijnor,Alluvial Soil
+UTTAR PRADESH,Budaun,Alluvial Soil
+UTTAR PRADESH,Bulandshahr,Alluvial Soil
+UTTAR PRADESH,Chandauli,Alluvial Soil
+UTTAR PRADESH,Chitrakoot,Alluvial Soil
+UTTAR PRADESH,Deoria,Alluvial Soil
+UTTAR PRADESH,Etah,Alluvial Soil
+UTTAR PRADESH,Etawah,Alluvial Soil
+UTTAR PRADESH,Faizabad,Alluvial Soil
+UTTAR PRADESH,Farrukhabad,Alluvial Soil
+UTTAR PRADESH,Fatehpur,Alluvial Soil
+UTTAR PRADESH,Firozabad,Alluvial Soil
+UTTAR PRADESH,Gautam Buddha Nagar,Alluvial Soil
+UTTAR PRADESH,Ghaziabad,Alluvial Soil
+UTTAR PRADESH,Ghazipur,Alluvial Soil
+UTTAR PRADESH,Gonda,Alluvial Soil
+UTTAR PRADESH,Gorakhpur,Alluvial Soil
+UTTAR PRADESH,Hamirpur,Alluvial Soil
+UTTAR PRADESH,Hapur,Alluvial Soil
+UTTAR PRADESH,Hardoi,Alluvial Soil
+UTTAR PRADESH,Hathras,Alluvial Soil
+UTTAR PRADESH,Jalaun,Alluvial Soil
+UTTAR PRADESH,Jaunpur,Alluvial Soil
+UTTAR PRADESH,Jhansi,Alluvial Soil
+UTTAR PRADESH,Kannauj,Alluvial Soil
+UTTAR PRADESH,Kanpur Dehat,Alluvial Soil
+UTTAR PRADESH,Kanpur Nagar,Alluvial Soil
+UTTAR PRADESH,Kasganj,Alluvial Soil
+UTTAR PRADESH,Kaushambi,Alluvial Soil
+UTTAR PRADESH,Kheri,Alluvial Soil
+UTTAR PRADESH,Kushinagar,Alluvial Soil
+UTTAR PRADESH,Lalitpur,Alluvial Soil
+UTTAR PRADESH,Lucknow,Alluvial Soil
+UTTAR PRADESH,Mahoba,Alluvial Soil
+UTTAR PRADESH,Mahrajganj,Alluvial Soil
+UTTAR PRADESH,Mainpuri,Alluvial Soil
+UTTAR PRADESH,Mathura,Alluvial Soil
+UTTAR PRADESH,Mau,Alluvial Soil
+UTTAR PRADESH,Meerut,Alluvial Soil
+UTTAR PRADESH,Mirzapur,Alluvial Soil
+UTTAR PRADESH,Moradabad,Alluvial Soil
+UTTAR PRADESH,Muzaffarnagar,Alluvial Soil
+UTTAR PRADESH,Pilibhit,Alluvial Soil
+UTTAR PRADESH,Pratapgarh,Alluvial Soil
+UTTAR PRADESH,Rae Bareli,Alluvial Soil
+UTTAR PRADESH,Rampur,Alluvial Soil
+UTTAR PRADESH,Saharanpur,Alluvial Soil
+UTTAR PRADESH,Sambhal,Alluvial Soil
+UTTAR PRADESH,Sant Kabir Nagar,Alluvial Soil
+UTTAR PRADESH,Shahjahanpur,Alluvial Soil
+UTTAR PRADESH,Shamli,Alluvial Soil
+UTTAR PRADESH,Shrawasti,Alluvial Soil
+UTTAR PRADESH,Siddharthnagar,Alluvial Soil
+UTTAR PRADESH,Sitapur,Alluvial Soil
+UTTAR PRADESH,Sonbhadra,Alluvial Soil
+UTTAR PRADESH,Sultanpur,Alluvial Soil
+UTTAR PRADESH,Unnao,Alluvial Soil
+UTTAR PRADESH,Varanasi,Alluvial Soil
+UTTARAKHAND,Almora,Mountain Soil
+UTTARAKHAND,Bageshwar,Mountain Soil
+UTTARAKHAND,Chamoli,Mountain Soil
+UTTARAKHAND,Champawat,Mountain Soil
+UTTARAKHAND,Dehradun,Mountain Soil
+UTTARAKHAND,Garhwal,Mountain Soil
+UTTARAKHAND,Hardwar,Mountain Soil
+UTTARAKHAND,Nainital,Mountain Soil
+UTTARAKHAND,Pithoragarh,Mountain Soil
+UTTARAKHAND,Rudraprayag,Mountain Soil
+UTTARAKHAND,Tehri Garhwal,Mountain Soil
+UTTARAKHAND,Udham Singh Nagar,Mountain Soil
+UTTARAKHAND,Uttarkashi,Mountain Soil
+WEST BENGAL,Alipurduar,Alluvial Soil
+WEST BENGAL,Bankura,Alluvial Soil
+WEST BENGAL,Barddhaman,Alluvial Soil
+WEST BENGAL,Birbhum,Alluvial Soil
+WEST BENGAL,Dakshin Dinajpur,Alluvial Soil
+WEST BENGAL,Darjiling,Alluvial Soil
+WEST BENGAL,Haora,Alluvial Soil
+WEST BENGAL,Hugli,Alluvial Soil
+WEST BENGAL,Jalpaiguri,Alluvial Soil
+WEST BENGAL,Jhargram,Alluvial Soil
+WEST BENGAL,Kalimpong,Alluvial Soil
+WEST BENGAL,Koch Bihar,Alluvial Soil
+WEST BENGAL,Kolkata,Alluvial Soil
+WEST BENGAL,Maldah,Alluvial Soil
+WEST BENGAL,Murshidabad,Alluvial Soil
+WEST BENGAL,Nadia,Alluvial Soil
+WEST BENGAL,North Twenty Four Parganas,Alluvial Soil
+WEST BENGAL,Paschim Bardhaman,Alluvial Soil
+WEST BENGAL,Paschim Medinipur,Alluvial Soil
+WEST BENGAL,Purba Bardhaman,Alluvial Soil
+WEST BENGAL,Purba Medinipur,Alluvial Soil
+WEST BENGAL,Puruliya,Alluvial Soil
+WEST BENGAL,South Twenty Four Parganas,Alluvial Soil
+WEST BENGAL,Uttar Dinajpur,Alluvial Soil
